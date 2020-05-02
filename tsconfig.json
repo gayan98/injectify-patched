@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "moduleResolution": "node",
+    "lib": [
+      "dom",
+      "es2017.string",
+      "es7"
+    ]
+  },
+  "exclude": [
+    "./src/inject/core/**/*"
+  ]
+}

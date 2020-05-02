@@ -1,0 +1,14 @@
+{
+  "name": "injectify-ci",
+  "version": "1.0.0",
+  "main": "status.js",
+  "repository": "https://github.com/samdenty99/injectify",
+  "author": "samdenty99",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "getos": "^3.1.0",
+    "moment": "^2.20.1",
+    "request": "^2.83.0"
+  }
+}
